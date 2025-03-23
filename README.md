@@ -6,6 +6,10 @@ Each team member created a separate branch in which we created our webpage.
 
 After completing our pages, we merged our branches into the main branch.
 
+The link to the repository
+
+https://github.com/sediaku/SE_Lab6.git
+
 Team Members
 
 Nadia Kirsty Dodoo
